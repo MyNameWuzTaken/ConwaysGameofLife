@@ -1,2 +1,4 @@
 # ConwaysGameofLife
-Obligatory Game of Life
+Obligatory Implimentation of Conways Game of Life
+
+Implemented in Python
